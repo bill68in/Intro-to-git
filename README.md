@@ -6,3 +6,11 @@
 
 # Git Repository
 - Where all our snopshots are stored
+
+# Adding multiple files of a certain type
+
+# Adding all files to directory (including hidden)
+
+# Removing files
+
+# Ingnoring files
