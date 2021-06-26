@@ -14,3 +14,10 @@
 # Removing files
 
 # Ingnoring files
+
+# Git Branches
+- Listing all branches
+- Adding a branch
+- Changing branches
+- Marging a branch
+- Removing a branch
